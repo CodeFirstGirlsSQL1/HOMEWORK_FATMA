@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="763b2a6b-37d9-4639-bc7c-0618e7e614c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HOMEWORK_FATMA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HOMEWORK_FATMA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="763b2a6b-37d9-4639-bc7c-0618e7e614c1" name="Default Changelist" comment="trying to clean up repo">
+      <change afterPath="$PROJECT_DIR$/Lesson 9/test_ATM_program.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,6 +34,28 @@
       <option name="presentableId" value="Default" />
       <updated>1625355398291</updated>
     </task>
+    <task id="LOCAL-00001" summary="trying to delete last commit">
+      <created>1625355668924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625355668924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="trying to clean up repo">
+      <created>1625355783429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625355783429</updated>
+    </task>
+    <task id="LOCAL-00003" summary="trying to clean up repo">
+      <created>1625355796346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625355796346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +74,8 @@
       <path value="$PROJECT_DIR$/Lesson 9" />
       <path value="$PROJECT_DIR$/Lesson 99" />
     </ignored-roots>
+    <MESSAGE value="trying to delete last commit" />
+    <MESSAGE value="trying to clean up repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to clean up repo" />
   </component>
 </project>

@@ -244,7 +244,7 @@ REVIEW:
         behaviours expected of an employee. as it is a method that prints a report about that employee I would again expect 
         to see a report generator class or some admin class that will work to produce reports based on the emplyee objects that 
         is passed into it, i.e. the two objects interact with each other but the generation of the report is not a behaviour 
-        i would associate with the employee 
+        i would associate with the employee  (SINGLE RESPONSIBILITY & INTEGRATION SEPERATION) 
     - writing to file:
         in the case of writing to the file, you can have not taken the necessary stepts to close 
         the file after finishing to write to file 
@@ -268,8 +268,7 @@ REVIEW:
         on the mention of validation in the previous point, there isn't much data validation at all, however data types
         are important in saving to a database, as certain columns expect specific values of specific lengths sometimes. 
         therefore, there needs to be validations on the data passed in, but also try and except or some form of error
-        handling in not only the print employee report but also the save employee, and the remove employee methods. 
-
+        handling in not only the print employee report but also the save employee, and the remove employee methods.  
 """
 
 
